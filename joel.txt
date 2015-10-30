@@ -1,1 +1,1 @@
-rich updated  joel.txt
+rich merged conflict with joel's resolution updated  joel.txt
